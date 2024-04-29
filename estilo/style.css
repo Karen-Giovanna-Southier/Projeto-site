@@ -10,9 +10,9 @@ body {
 
 main {
     background-color:aliceblue;
-    widht: 200px;
+    widht: 500px;
     margin: auto;
-    padding: 20px;
+    padding: 250px;
     box-shadow: 5px 5px 5px black;
 }
 
