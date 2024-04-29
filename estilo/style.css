@@ -13,9 +13,11 @@ body {
 main {
     background-color:aliceblue;
     width: 500px;
-    margin: auto;
+    margin: 0 auto;
+    display: block;
     padding: 250px;
     box-shadow: 3px 3px 3px black;
+    text-align: center;
 }
 
 img.lado {
