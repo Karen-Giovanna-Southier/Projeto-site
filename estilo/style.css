@@ -10,10 +10,10 @@ body {
 
 main {
     background-color:aliceblue;
-    widht: 500px;
+    widht: 100px;
     margin: auto;
-    padding: 250px;
-    box-shadow: 125px 125px 125px black;
+    padding: 20px;
+    box-shadow: 3px 3px 3px black;
 }
 
 img.lado {
