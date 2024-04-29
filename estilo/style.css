@@ -13,9 +13,9 @@ main {
     widht: 500px;
     margin: auto;
     padding: 250px;
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 125px 125px 125px black;
 }
 
-img.class lado {
+img.lado {
     float: right
 }
