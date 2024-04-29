@@ -17,5 +17,5 @@ main {
 }
 
 img.class lado {
-    float: right;
+    float: right(0, 0, 0, 5);
 }
