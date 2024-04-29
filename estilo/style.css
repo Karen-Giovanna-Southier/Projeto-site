@@ -10,12 +10,12 @@ body {
 
 main {
     background-color:aliceblue;
-    widht: 500px;
+    widht: 200px;
     margin: auto;
     padding: 20px;
     box-shadow: 5px 5px 5px black;
 }
 
 img.class lado {
-    float: right(0, 0, 0, 5);
+    float: right
 }
